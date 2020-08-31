@@ -1,0 +1,19 @@
+{
+    "name": "james.rus52/syntax-checker",
+    "description": "validate brackes",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^9.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "james.rus52",
+            "email": "james.rus52@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "SyntaxChecker" : "src"
+    }
+}
